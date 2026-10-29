@@ -1,0 +1,6 @@
+groq
+ipywidgets
+pandas
+matplotlib
+python-dotenv
+jupyter
